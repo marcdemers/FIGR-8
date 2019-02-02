@@ -28,7 +28,7 @@ Sample from data.csv:
 | ... | ... | ... | ... | ... | 
 | 11779 | mountain | mountain/1459598-200.png | shastry	| creative commons  |
 | 2236| cup| cup/1471583-200.png | simon farkas | creative commons  |
-| 11960| plane earth | planet earth/739440-200.png | symbolon |  creative commons  |
+| 11960| planet earth | planet earth/739440-200.png | symbolon |  creative commons  |
 |...|...|...|...|...|
 
 ### Alternate Download
@@ -36,7 +36,7 @@ Sample from data.csv:
 Alternatively, you can download the dataset from [here](http://bit.ly/FIGR-8 "FIGR-8 GoogleDrive").
 
 ### SVG images
-If you prefer to work with .SVG images (vector graphics) images, you can download an alternate version of the images from [here](https://drive.google.com/drive/folders/1X3nm_ppvrI1U5YAe5T40ycaRyro-2Gre?usp=sharing "FIGR-8-SVG GoogleDrive").
+If you prefer to work with .SVG (vector graphics) images, you can download an alternate version of the images from [here](http://bit.ly/FIGR-8-SVG "FIGR-8-SVG GoogleDrive").
 
 ### License
 

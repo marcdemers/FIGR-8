@@ -33,10 +33,10 @@ Sample from data.csv:
 
 ### Alternate Download
 
-Alternatively, you can download the dataset from [here](http://bit.ly/FIGR-8 "FIGR-8 GoogleDrive").
+Alternatively, you can download the dataset from [the FIGR-8 Google Drive](http://bit.ly/FIGR-8 "FIGR-8 GoogleDrive"), or get the .torrent link from [Academic Torrents](http://academictorrents.com/details/303a6341bea91ab71717204631467ab9e68232bd "FIGR-8 Academic Torrents").
 
 ### SVG images
-If you prefer to work with .SVG (vector graphics) images, you can download an alternate version of the images from [here](http://bit.ly/FIGR-8-SVG "FIGR-8-SVG GoogleDrive").
+If you prefer to work with .SVG (vector graphics) images, you can download an alternate version of the images from [the FIGR-8-SVG Google Drive](http://bit.ly/FIGR-8-SVG "FIGR-8-SVG GoogleDrive"), from the [FIGR-8-SVG github repository](https://github.com/marcdemers/FIGR-8-SVG "FIGR-8-SVG Github"), or from [Academic Torrents](http://academictorrents.com/details/55911e0af5be7c7ccbbff5d35a8a8dfc2275bc50 "FIGR-8-SVG Academic Torrents").
 
 ### License
 
@@ -50,17 +50,18 @@ Images were gathered from [The Nounji App](https://thenounproject.com/nounji/ "N
 
 If you use this database for your own projects, please consider __citing the following paper__:
 
-	@article{FIGR2019,
-	author = {Louis Clouâtre and Marc Demers},
-	title = {FIGR: Few-shot Image Generation with Reptile},
-	journal = {CoRR},
-	volume = {abs/1901.02199},
-	year = 2019,
-	ee = {http://arxiv.org/abs/1901.02199},
-	month = jan,
-	archiveprefix = “arXiv”,
-	number = “1901.02199v1”,
-	eprint = “1901.02199v1”,
-	primaryclass = “cs.CV”,
-	nonrefereed = “true”
+	@article{DBLP:journals/corr/abs-1901-02199,
+	  author    = {Louis Clou{\^{a}}tre and
+		       Marc Demers},
+	  title     = {{FIGR:} Few-shot Image Generation with Reptile},
+	  journal   = {CoRR},
+	  volume    = {abs/1901.02199},
+	  year      = {2019},
+	  url       = {http://arxiv.org/abs/1901.02199},
+	  archivePrefix = {arXiv},
+	  eprint    = {1901.02199},
+	  timestamp = {Thu, 31 Jan 2019 13:52:49 +0100},
+	  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1901-02199},
+	  bibsource = {dblp computer science bibliography, https://dblp.org}
 	}
+

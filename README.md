@@ -33,10 +33,10 @@ Sample from data.csv:
 
 ### Alternate Download
 
-Alternatively, you can download the dataset from [the FIGR-8 Google Drive](http://bit.ly/FIGR-8 "FIGR-8 GoogleDrive"), or get the .torrent link from [Academic Torrents](http://academictorrents.com/details/303a6341bea91ab71717204631467ab9e68232bd "FIGR-8 Academic Torrents").
+Alternatively, you can download the dataset from the [FIGR-8 Google Drive](http://bit.ly/FIGR-8 "FIGR-8 GoogleDrive"), or get the .torrent link from [Academic Torrents](http://academictorrents.com/details/303a6341bea91ab71717204631467ab9e68232bd "FIGR-8 Academic Torrents").
 
 ### SVG images
-If you prefer to work with .SVG (vector graphics) images, you can download an alternate version of the images from [the FIGR-8-SVG Google Drive](http://bit.ly/FIGR-8-SVG "FIGR-8-SVG GoogleDrive"), from the [FIGR-8-SVG github repository](https://github.com/marcdemers/FIGR-8-SVG "FIGR-8-SVG Github"), or from [Academic Torrents](http://academictorrents.com/details/55911e0af5be7c7ccbbff5d35a8a8dfc2275bc50 "FIGR-8-SVG Academic Torrents").
+If you prefer to work with .SVG (vector graphics) images, you can download an alternate version of the images from the [FIGR-8-SVG Google Drive](http://bit.ly/FIGR-8-SVG "FIGR-8-SVG GoogleDrive"), from the [FIGR-8-SVG github repository](https://github.com/marcdemers/FIGR-8-SVG "FIGR-8-SVG Github"), or from [Academic Torrents](http://academictorrents.com/details/55911e0af5be7c7ccbbff5d35a8a8dfc2275bc50 "FIGR-8-SVG Academic Torrents").
 
 ### License
 
